@@ -6,7 +6,7 @@
     "main": "index.js",
     "scripts": {
         "test": "jest",
-        "dev": "node 1-main.js"
+        "dev": "node 2-main.js"
     },
     "devDependencies": {
         "@babel/core": "^7.14.6",
